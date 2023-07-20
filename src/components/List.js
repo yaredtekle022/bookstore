@@ -1,6 +1,6 @@
 import Book from './Book';
 
-const BookList = () => (
+const List = () => (
   <ul>
     <Book bookTitle="TITLE1" author="AUTHOR1" />
     <Book bookTitle="TITLE2" author="AUTHOR2" />
@@ -8,4 +8,4 @@ const BookList = () => (
   </ul>
 );
 
-export default BookList;
+export default List;

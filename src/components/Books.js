@@ -1,10 +1,10 @@
-import BookList from './BooksList';
-import BookForm from './BookForm';
+import List from './List';
+import Form from './Form';
 
 const Books = () => (
   <>
-    <BookList />
-    <BookForm />
+    <List />
+    <Form />
   </>
 );
 

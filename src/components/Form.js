@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BookForm = () => (
+const Form = () => (
   <div>
     <h1>ADD NEW BOOK</h1>
     <form>
@@ -11,4 +11,4 @@ const BookForm = () => (
   </div>
 );
 
-export default BookForm;
+export default Form;
