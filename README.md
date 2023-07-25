@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 > [bookstore]
 
-**[Math Magicians app]** is React app that store book.
+**[Math Magicians app]** is React-Redux app that store book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,6 +72,7 @@ After you're finished please remove all the comments and instructions!
 > CSS 
 > Javascript
 > React
+>Redux
 
 
 
@@ -97,7 +98,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need node package manager<br>
 
 
- npm install 
+ npm install react-redux @reduxjs/toolkit
 
 
 ### Setup
