@@ -62,16 +62,17 @@ After you're finished please remove all the comments and instructions!
 
 > [bookstore]
 
-**[Math Magicians app]** is React app that store book.
+**[Math Magicians app]** is React-Redux app that store book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML
-> CSS 
-> Javascript
-> React
+> HTML <br>
+> CSS <br>
+> Javascript <br>
+> React <br>
+>Redux <br>
 
 
 
@@ -79,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **[book-structure]**
+- **[book-structure-redux]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +98,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need node package manager<br>
 
 
- npm install 
+ npm install react-redux @reduxjs/toolkit
 
 
 ### Setup
@@ -107,7 +108,7 @@ Clone this repository to your desired folder:
 
   cd your-folder<br>
   git clone https://github.com/yaredtekle022/bookstore
-
+  cd bookstore
 
 
 ### Install
@@ -149,9 +150,10 @@ You can deploy this project using github page deployment.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[add-book]**
-- [ ] **[remove-book]**
-
+- [ ] **[using-redux-in-react-components]**
+- [ ] **[bookstore-connect-to-API]**
+- [ ] **[bookstore-connect-to-API]**
+- [ ] **[bookstore-Styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
