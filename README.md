@@ -80,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **[book-structure-redux]**
+- [ ] **[using-redux-in-react-components]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,8 +150,6 @@ You can deploy this project using github page deployment.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[using-redux-in-react-components]**
-- [ ] **[bookstore-connect-to-API]**
 - [ ] **[bookstore-connect-to-API]**
 - [ ] **[bookstore-Styling]**
 
