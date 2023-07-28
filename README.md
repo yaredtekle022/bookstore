@@ -150,7 +150,6 @@ You can deploy this project using github page deployment.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[bookstore-connect-to-API]**
 - [ ] **[bookstore-Styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
